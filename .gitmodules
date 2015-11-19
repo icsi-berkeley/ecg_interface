@@ -4,3 +4,6 @@
 [submodule "robot-code"]
 	path = robot-code
 	url = https://github.com/icsi-berkeley/robot-code
+[submodule "ecg-grammars"]
+	path = ecg-grammars
+	url = https://github.com/icsi-berkeley/ecg-grammars
