@@ -1,1 +1,10 @@
 
+[submodule "robot_code"]
+	path = robot_code
+	url = https://github.com/icsi-berkeley/robot_code
+[submodule "ecg_grammars"]
+	path = ecg_grammars
+	url = https://github.com/icsi-berkeley/ecg_grammars
+[submodule "framework_code"]
+	path = framework_code
+	url = https://github.com/icsi-berkeley/framework_code
