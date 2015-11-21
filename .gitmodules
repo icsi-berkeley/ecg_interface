@@ -1,6 +1,6 @@
-[submodule "framework-code"]
-	path = framework-code
-	url = https://github.com/icsi-berkeley/framework-code
+[submodule "framework_code"]
+	path = framework_code
+	url = https://github.com/icsi-berkeley/framework_code
 [submodule "robot-code"]
 	path = robot-code
 	url = https://github.com/icsi-berkeley/robot-code
