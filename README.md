@@ -1,8 +1,14 @@
 # ecg-interface
-General system interface for CCI/ROS
+General system interface for natural language understanding.
 
-Contains other Git submodules. View each submodule to learn more about its purposes:
+To install, use:
 
-* ecg-grammars
-* framework-code
-* robot-code
+`git clone https://github.com/icsi-berkeley/ecg_interface.git`
+
+Then update the submodules:
+
+`cd ecg_interface`  
+`git submodule init`  
+`git submodule update`  
+
+For more information about the system, look here: https://github.com/icsi-berkeley/ecg_homepage/wiki  
